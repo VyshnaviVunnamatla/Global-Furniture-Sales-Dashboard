@@ -19,7 +19,7 @@ The Global Furniture Sales Dashboard provides a detailed overview of sales trend
 ### Customer Segmentation:
 - Insights into customer behavior, helping to identify the highest-value customer groups.
 - Breakdown by customer segments to optimize marketing and sales efforts.
-- 
+  
 ## Dashboard Sections
 ### Sales Overview:
 - Displays overall sales volume, revenue, and profit margins across all product categories and regions.
